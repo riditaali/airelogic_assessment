@@ -1,4 +1,4 @@
-# airelogic_assessment
+# simple steps to count the words in a song's lyrics, etc. 
 
 #The instructions for installing the required libraries are in a text file.
 #The programs have been written in a Jupyter Notebook.
