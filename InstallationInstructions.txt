@@ -1,0 +1,15 @@
+The Imports mentioned in the first two cells will help run the programs in the cells below.
+
+If any of the libraries fail to be imported due to it not being installed then please install them by following the instructions below.
+
+1. pip install numpy
+
+2. pip install pandas
+
+3. pip install statistics
+
+4. pip install scipy
+[You can get more information from << https://www.scipy.org/install.html >>]
+
+5. pip install matplotlib
+[You can get more information from << https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html >>]
